@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19011" started-at="2021-01-26T12:36:27Z" finished-at="2021-01-26T12:36:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19011" started-at="2021-01-26T12:36:27Z" finished-at="2021-01-26T12:36:46Z">
+      <class name="com.facebook.tests.FacebookRegister">
+        <test-method status="PASS" signature="FacebookRegisterTest1()[pri:0, instance:com.facebook.tests.FacebookRegister@604ed9f0]" name="FacebookRegisterTest1" duration-ms="18978" started-at="2021-01-26T12:36:27Z" description="Avinash Facebook Register Test" finished-at="2021-01-26T12:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookRegisterTest1 -->
+        <test-method status="PASS" signature="FacebookRegisterTest3()[pri:0, instance:com.facebook.tests.FacebookRegister@604ed9f0]" name="FacebookRegisterTest3" duration-ms="18229" started-at="2021-01-26T12:36:27Z" description="Aniket Facebook Register Test" finished-at="2021-01-26T12:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookRegisterTest3 -->
+        <test-method status="PASS" signature="FacebookRegisterTest2()[pri:0, instance:com.facebook.tests.FacebookRegister@604ed9f0]" name="FacebookRegisterTest2" duration-ms="18294" started-at="2021-01-26T12:36:27Z" description="Suraj Facebook Register Test" finished-at="2021-01-26T12:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookRegisterTest2 -->
+      </class> <!-- com.facebook.tests.FacebookRegister -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
